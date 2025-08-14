@@ -12,6 +12,7 @@ Mi nombre es Victor Perea, tengo 25 años y soy Técnico Superior en Desarrollo 
 - ### 🏢 Proyecto interno - Tacografo (Prácticas en [Buscalia])
     - crear un web donde poder consultar la informacion que genera cada tacografo
     - las tecnologias usadas para el proyecto era node.js, angular, Python.
+      
 - Actualmente, continúo ampliando mis conocimientos en **Spring Boot**, **Firebase**, **Node.js** y **base de datos**. 
 
 ---
