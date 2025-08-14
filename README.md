@@ -1,14 +1,16 @@
-# 👩🏻‍💻 Víctor Perea Lira
+# 👋 Hola, soy Víctor Perea Lira
 
-### Backed & Mobile Developer
+### 💻 Backed & Mobile Developer | Apasionado por las tecnologias y el aprendizaje
 
-Mi nombre es Victor Perea, tengo 25 años y soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Durante mi formación adquirí una sólida base en programación y bases de datos, desarrollando como proyecto final una aplicación Android para la gestión de libros, que permite organizar lecturas pendientes, registrar libros leídos y recibir recomendaciones personalizadas.
+Mi nombre es Victor Perea, tengo 25 años y soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Durante mi formación adquirí una sólida base en programación y bases de datos, he desarrollado proyectos que integran **base de datos**, **APIs Rest** y **aplicaciones android** optimizadas para la experiencia de usuario. 
 
-Actualmente continúo ampliando mis conocimientos como desarrollador, creando nuevos proyectos que combinan lo aprendido con nuevas tecnologías que voy explorando día a día.
+## 📚 Proyecto destacado
+- **Llibros && Chill** App android para la gestión de tu biblioteca de libros personal donde puedes guardar todos los libros que te has leido, tienes pendiente o que más te gustan, de una forma practica y sencilla.
+- Actualmente, continúo ampliando mis conocimientos en **Spring Boot**, **Firebase**, **Node.js** y **base de datos**. 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Lenguajes y Tecnologias
 
 <img 
     align="left" 
@@ -77,3 +79,5 @@ Actualmente continúo ampliando mis conocimientos como desarrollador, creando nu
 
 <br/>
 <br/>
+
+
